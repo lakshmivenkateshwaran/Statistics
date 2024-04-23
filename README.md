@@ -7,7 +7,9 @@ This Python script provides a streamlined approach to transform data stored in a
 1. Clone the repository:
    git clone https://github.com/lakshmivenkateshwaran/Statistics.git
 
-2. Install dependencies
+2. Branch: iqr
+
+3. Install dependencies
    pip install -r requirements.txt
 
 ## Steps
