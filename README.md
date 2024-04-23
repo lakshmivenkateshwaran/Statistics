@@ -5,7 +5,7 @@ This Python script provides a streamlined approach to transform data stored in a
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Recipes_Scraper
+   git clone https://github.com/lakshmivenkateshwaran/Statistics.git
 
 2. Install dependencies
    pip install -r requirements.txt
