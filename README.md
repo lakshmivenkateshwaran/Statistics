@@ -4,6 +4,10 @@ This Python script demonstrates the process of linear interpolation using Matplo
 ## Description
 The script uses Matplotlib to create a visualization of the steps involved in linear interpolation. It explains the process through a series of annotated steps using LaTeX-formatted equations.
 
+## Clone the repository
+git clone https://github.com/lakshmivenkateshwaran/Statistics.git
+Branch: interpolation
+
 ## Dependencies
 Python 3.x
 Pandas
@@ -11,8 +15,7 @@ Matplotlib
 Latexify
 
 ## Install dependencies using:
-
-pip install matplotlib latexify
+pip install matplotlib latexify pandas
 
 ## Usage
  - Run the Python script latex_updated.py.
